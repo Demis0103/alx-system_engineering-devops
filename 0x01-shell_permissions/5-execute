@@ -1,2 +1,2 @@
-#1/bin/bah
+#!/bin/bah
 chmod u+x hello
